@@ -32,6 +32,6 @@ while True:
     resposta_chatbot = chatbot(entrada_usuario)
     # Exibir resposta do chatbot
     print("Chatbot:", resposta_chatbot)
-    
+
     # adicionando linha de teste para comit por token colab
     
