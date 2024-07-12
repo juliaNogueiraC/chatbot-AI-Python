@@ -34,4 +34,5 @@ while True:
     print("Chatbot:", resposta_chatbot)
 
     # adicionando linha de teste para comit por token colab - comit de teste
+# adicionand linha teste comit em outra branch
     
