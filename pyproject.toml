@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "repl-nix-chatbot-ai-python"
+version = "0.1.0"
+description = ""
+authors = ["Your Name <you@example.com>"]
+readme = "README.md"
+packages = [{include = "repl_nix_chatbot_ai_python"}]
+
+[tool.poetry.dependencies]
+python = "^3.12"
+transformers = "^4.42.4"
+tkscrolledframe = "^1.0.4"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
