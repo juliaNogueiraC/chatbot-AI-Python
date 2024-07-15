@@ -1,0 +1,22 @@
+1- Adicionar barra de menu com opções (e.g., "Ajuda", "Sobre").
+2- Histórico de mensagens: Salvar as mensagens enviadas e recebidas.
+3- Função de limpar o chat: Um botão para limpar todas as mensagens.
+4- Resposta automática baseada em palavras-chave: Simples lógica de resposta automática para simular um bot mais inteligente.
+5-Tema escuro/claro: Alternar entre tema claro e escuro.
+
+# Explicações das Melhorias:
+Tema Escuro/Claro:
+
+- A função mudar_tema alterna entre tema claro e escuro, ajustando as cores da interface.
+
+Limpar Chat:
+
+- A função limpar_chat limpa todas as mensagens do campo de texto.
+Menu:
+Um menu foi adicionado com opções para mudar o tema, limpar o chat, e uma seção de ajuda com informações sobre o aplicativo.
+
+Resposta Automática:
+
+- A função resposta_bot responde automaticamente com base em palavras-chave na mensagem do usuário.
+Timestamp:
+As mensagens agora incluem um timestamp para indicar o horário em que foram enviadas.
